@@ -1,0 +1,9 @@
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.json linguist-language=JSON
+*.yml linguist-language=YAML
+Dockerfile linguist-language=Dockerfile
+*.sh linguist-language=Shell
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.md linguist-documentation

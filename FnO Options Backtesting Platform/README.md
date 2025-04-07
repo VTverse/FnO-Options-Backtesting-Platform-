@@ -1,4 +1,4 @@
-# OptionSim
+# FnO: Options Backtesting Platform 
 
 Developed and deployed an options backtesting platform using React.js and Node.js, integrating NSE APIs to enable
 real-time market data analysis and strategy testing.
